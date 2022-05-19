@@ -1,2 +1,2 @@
 # hello-world
-My First try on Github!
+Ich studiere Informatik und brauche Erfahrung in GitHub. Darum bin ich hier ;-)
